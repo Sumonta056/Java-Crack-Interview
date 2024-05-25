@@ -1,0 +1,8 @@
+Need to Construct an Interface named “CefaloQuestion.Input” which
+will have two methods . One method will concat characters and another
+method will print the buffer . Two classes named “inputChar” and
+“inputNumercial” need to be constructed . Classes Will override the
+Methods of “input” interface . class “inputChar” will take all characters
+as input but will add all characters to the string buffer. Class
+“inputNumerical” will also take all characters as input but will add only
+numeric characters to the string buffer.
